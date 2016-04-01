@@ -1,0 +1,23 @@
+/* theme for colors, icons, and images */
+
+em {background:yellow;}
+body {background: url(../images/react-logo-1000-transparent.png) no-repeat center fixed; 
+		background-size: 600px 600px;
+	/*-webkit-background-size: cover;
+	  -moz-background-size: cover;
+	  -o-background-size: cover;
+	  background-size: cover;*/
+	  
+ }
+/* body {background: url(../images/sos.png); background-color: #F0F0F0;} */
+
+h1, h2 {color:white;}
+h1 small, h2 small {color: #D0D0D0;}
+.header {background:  #303030;}
+#results-list .result-item {border-bottom: solid 1px #787878 ; border-left: solid 8px #00CCFF; background:white; box-shadow: 4px 4px 2px #888888;}
+
+#results-list .result-item:hover {background:#DCEDFF;}
+
+.page-title {color: #00CCFF;}
+.page-title:hover {color: #00CCFF;}
+
